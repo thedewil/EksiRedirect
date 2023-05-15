@@ -1,4 +1,4 @@
-name = "web"
+name = "eksi"
 account_id = "" #
 type = "webpack"
 workers_dev = true
