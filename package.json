@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "EksiRedirect",
+  "version": "1.0.0",
+  "description": "Checks current eksisozluk.com domain and redirects the user.",
+  "main": "index.js",
+  "author": "thedewil <admin@thedewil.com>",
+  "license": "MIT"
+}
