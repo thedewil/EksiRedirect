@@ -1,0 +1,4 @@
+name = "web"
+account_id = "" #
+type = "webpack"
+workers_dev = true
